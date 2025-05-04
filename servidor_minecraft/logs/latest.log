@@ -735,3 +735,4 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [04May2025 20:36:17.250] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/36733, l='ServerLevel[world]', x=1941.98, y=96.27, z=54.81] died, message: 'Leatherworker was slain by Ghoul'
 [04May2025 20:36:33.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: katanaXOX has made the advancement [Stay dead]
 [04May2025 20:36:33.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: katanaXOX has made the advancement [Walking Dead]
+[04May2025 20:47:10.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: katanaXOX has completed the challenge [Knights of The Square-Table]
