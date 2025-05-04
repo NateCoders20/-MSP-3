@@ -8582,3 +8582,11 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [04May2025 20:43:58.825] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [04May2025 20:43:58.837] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [04May2025 20:47:10.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: katanaXOX has completed the challenge [Knights of The Square-Table]
+[04May2025 20:48:58.832] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04May2025 20:48:58.844] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04May2025 20:53:58.837] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04May2025 20:53:58.852] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04May2025 20:56:23.419] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Unlicensed Alchemist'/41157, l='ServerLevel[world]', x=1928.93, y=61.50, z=31.94] died: Unlicensed Alchemist was slain by katanaXOX
+[04May2025 20:58:23.269] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=1878, y=79, z=64}) doesn't have enough leaves around top most log
+[04May2025 20:58:24.121] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=1878, y=78, z=64}) doesn't have enough leaves around top most log
+[04May2025 20:58:25.169] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=1878, y=78, z=65}) doesn't have enough leaves around top most log
