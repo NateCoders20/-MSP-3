@@ -675,3 +675,4 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [04May2025 19:32:18.056] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AbrahamUps lost connection: Disconnected
 [04May2025 19:32:18.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AbrahamUps left the game
 [04May2025 19:34:48.598] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Archeologist'/20227, l='ServerLevel[world]', x=44.46, y=73.00, z=-291.91] died, message: 'Archeologist was slain by Ghoul'
+[04May2025 19:55:58.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: katanaXOX was slain by Husk
