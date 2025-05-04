@@ -4897,3 +4897,22 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [04May2025 19:04:55.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AbrahamUps joined the game
 [04May2025 19:04:55.305] [Server thread/INFO] [Jade/]: Syncing config to AbrahamUps (770a249a-151d-44aa-8e30-622ebfdd7032)
 [04May2025 19:06:44.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: katanaXOX tried to swim in lava
+[04May2025 19:08:37.305] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04May2025 19:08:37.320] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04May2025 19:09:10.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: katanaXOX has made the advancement [Gravedigger]
+[04May2025 19:12:43.607] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2222ms or 44 ticks behind
+[04May2025 19:13:39.517] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04May2025 19:13:39.529] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04May2025 19:14:02.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AbrahamUps was slain by Enderman
+[04May2025 19:16:50.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AbrahamUps: Teleported katanaXOX to AbrahamUps]
+[04May2025 19:17:23.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: katanaXOX has made the advancement [Alex's Caves]
+[04May2025 19:17:25.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AbrahamUps has made the advancement [Alex's Caves]
+[04May2025 19:17:45.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AbrahamUps has made the advancement [It Belongs in a Museum]
+[04May2025 19:17:50.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AbrahamUps has made the advancement [Once Upon a Cave]
+[04May2025 19:18:39.481] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04May2025 19:18:39.495] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04May2025 19:20:30.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: katanaXOX was doomed to fall by Zombie
+[04May2025 19:20:58.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AbrahamUps: Teleported katanaXOX to AbrahamUps]
+[04May2025 19:22:19.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AbrahamUps has made the advancement [Flexible Schedule]
+[04May2025 19:23:39.495] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04May2025 19:23:39.510] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
