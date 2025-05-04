@@ -671,3 +671,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [04May2025 19:20:30.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: katanaXOX was doomed to fall by Zombie
 [04May2025 19:20:58.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AbrahamUps: Teleported katanaXOX to AbrahamUps]
 [04May2025 19:22:19.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AbrahamUps has made the advancement [Flexible Schedule]
+[04May2025 19:31:02.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AbrahamUps: Teleported katanaXOX to AbrahamUps]
+[04May2025 19:32:18.056] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AbrahamUps lost connection: Disconnected
+[04May2025 19:32:18.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AbrahamUps left the game
+[04May2025 19:34:48.598] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Archeologist'/20227, l='ServerLevel[world]', x=44.46, y=73.00, z=-291.91] died, message: 'Archeologist was slain by Ghoul'

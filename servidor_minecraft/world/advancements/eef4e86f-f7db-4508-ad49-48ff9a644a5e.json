@@ -93,6 +93,7 @@
       "minecraft:cold_ocean": "2025-05-04 02:56:10 +0000",
       "minecraft:forest": "2025-05-03 19:09:46 +0000",
       "minecraft:lush_caves": "2025-05-04 03:31:15 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-05-04 19:32:50 +0000",
       "minecraft:meadow": "2025-05-03 19:42:28 +0000",
       "minecraft:plains": "2025-05-03 18:26:05 +0000"
     },
@@ -1441,6 +1442,7 @@
       "cooked_porkchop": "2025-05-04 03:49:50 +0000",
       "cooked_mutton": "2025-05-03 18:48:38 +0000",
       "bread": "2025-05-04 02:50:04 +0000",
+      "golden_apple": "2025-05-04 19:24:31 +0000",
       "cooked_chicken": "2025-05-04 02:45:01 +0000"
     },
     "done": false
@@ -2689,73 +2691,73 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-05-04 19:23:39 +0000"
+      "log_spam_fixer": "2025-05-04 19:33:39 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-05-04 19:23:39 +0000"
+      "log_spam_fixer": "2025-05-04 19:33:39 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-05-04 19:23:39 +0000"
+      "log_spam_fixer": "2025-05-04 19:33:39 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-05-04 19:23:39 +0000"
+      "log_spam_fixer": "2025-05-04 19:33:39 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-05-04 19:23:39 +0000"
+      "log_spam_fixer": "2025-05-04 19:33:39 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-05-04 19:23:39 +0000"
+      "log_spam_fixer": "2025-05-04 19:33:39 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-05-04 19:23:39 +0000"
+      "log_spam_fixer": "2025-05-04 19:33:39 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-05-04 19:23:39 +0000"
+      "log_spam_fixer": "2025-05-04 19:33:39 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-05-04 19:23:39 +0000"
+      "log_spam_fixer": "2025-05-04 19:33:39 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-05-04 19:23:39 +0000"
+      "log_spam_fixer": "2025-05-04 19:33:39 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-05-04 19:23:39 +0000"
+      "log_spam_fixer": "2025-05-04 19:33:39 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-05-04 19:23:39 +0000"
+      "log_spam_fixer": "2025-05-04 19:33:39 +0000"
     },
     "done": false
   },
@@ -2780,6 +2782,12 @@
   "iceandfire:recipes/building_blocks/dragonforge_fire_brick": {
     "criteria": {
       "has_item": "2025-05-04 19:23:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-05-04 19:23:53 +0000"
     },
     "done": true
   },
@@ -2816,6 +2824,18 @@
   "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-05-04 18:43:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-05-04 19:23:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-05-04 19:23:53 +0000"
     },
     "done": true
   },
@@ -2864,6 +2884,12 @@
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
       "has_stone": "2025-05-04 18:43:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-05-04 19:23:53 +0000"
     },
     "done": true
   },
@@ -2993,6 +3019,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-05-04 19:23:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-05-04 18:43:00 +0000"
@@ -3044,6 +3076,12 @@
   "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-05-04 18:43:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-05-04 19:23:53 +0000"
     },
     "done": true
   },

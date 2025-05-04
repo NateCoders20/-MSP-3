@@ -4916,3 +4916,16 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [04May2025 19:22:19.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AbrahamUps has made the advancement [Flexible Schedule]
 [04May2025 19:23:39.495] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [04May2025 19:23:39.510] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04May2025 19:28:39.490] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04May2025 19:28:39.504] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04May2025 19:29:37.178] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=42, y=-27, z=-614}) doesn't have enough leaves around top most log
+[04May2025 19:29:38.022] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=42, y=-28, z=-614}) doesn't have enough leaves around top most log
+[04May2025 19:29:38.869] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=42, y=-29, z=-614}) doesn't have enough leaves around top most log
+[04May2025 19:29:39.719] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=42, y=-30, z=-614}) doesn't have enough leaves around top most log
+[04May2025 19:29:40.573] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=42, y=-31, z=-614}) doesn't have enough leaves around top most log
+[04May2025 19:31:02.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AbrahamUps: Teleported katanaXOX to AbrahamUps]
+[04May2025 19:32:18.056] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AbrahamUps lost connection: Disconnected
+[04May2025 19:32:18.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AbrahamUps left the game
+[04May2025 19:33:39.475] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04May2025 19:33:39.490] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04May2025 19:34:48.598] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Archeologist'/20227, l='ServerLevel[world]', x=44.46, y=73.00, z=-291.91] died, message: 'Archeologist was slain by Ghoul'
