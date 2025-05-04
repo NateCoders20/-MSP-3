@@ -737,3 +737,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [04May2025 20:36:33.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: katanaXOX has made the advancement [Walking Dead]
 [04May2025 20:47:10.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: katanaXOX has completed the challenge [Knights of The Square-Table]
 [04May2025 20:56:23.419] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Unlicensed Alchemist'/41157, l='ServerLevel[world]', x=1928.93, y=61.50, z=31.94] died: Unlicensed Alchemist was slain by katanaXOX
+[04May2025 21:02:25.415] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: katanaXOX lost connection: Disconnected
+[04May2025 21:02:25.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: katanaXOX left the game

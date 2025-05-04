@@ -8590,3 +8590,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [04May2025 20:58:23.269] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=1878, y=79, z=64}) doesn't have enough leaves around top most log
 [04May2025 20:58:24.121] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=1878, y=78, z=64}) doesn't have enough leaves around top most log
 [04May2025 20:58:25.169] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=1878, y=78, z=65}) doesn't have enough leaves around top most log
+[04May2025 20:58:58.833] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04May2025 20:58:58.848] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04May2025 21:02:25.415] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: katanaXOX lost connection: Disconnected
+[04May2025 21:02:25.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: katanaXOX left the game
+[04May2025 21:03:58.796] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04May2025 21:03:58.805] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
